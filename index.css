@@ -1,0 +1,119 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    display: flex;
+    background-color: beige;
+}
+.navbar{
+    margin-left: auto;
+    text-transform: uppercase;
+    padding-top: 50px;
+    padding-right: 30px;
+}
+ul{
+    display: flex;
+    gap: 20px ;
+    list-style: none;
+    
+}
+footer{
+    background-color: bisque;
+}
+.about section{
+    display: flex;
+}
+.p2{
+    justify-content: flex-end;
+}
+.contact{
+    background-color: bisque;
+}
+
+
+.imglogo{
+font-size: small;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.main section{
+    display: flex;
+  flex-wrap: nowrap;
+  background-color: DodgerBlue;
+}
+/* p{
+    padding-left: 300px;
+    padding-top: 50px;
+    text-decoration-color: bisque;
+} */
+
+
+.burger img{
+    display: flex;
+}
+.burger{
+    margin-left: auto;
+}
+.pizza{
+height: 300px;
+    width: 300xp;
+}
+.prices_section {
+    display: flex;
+    border: 1px solid color red
+}
+
+
+
+.button{
+ height: 100vh;
+ justify-content: center;
+ align-items: center;
+ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ font-size: 18px;
+ font-weight: bold;
+ background: #1e90ff;
+ width: 150px;
+ max-height: 70px;
+ padding: 20px;
+ text-align: center;
+ text-decoration: none;
+ text-transform: uppercase;
+ color: #FFF;
+ border-radius: 5px;
+ cursor: pointer;
+ box-shadow: 0 0 10PX rgb(0, 0, 0, 0.1);
+ 
+}
+
+.amburger{
+    height: 300px;
+    width: 300px
+}
+.sbaetti{
+    height: 300px;
+    width: 300px;
+}
+.menu section{
+    display: flex;
+    display: inline;
+}
+image{
+justify-self: flex-end;
+}
+.hero_section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.p1{
+    justify-content: center;
+    padding-left: 50px;
+    align-items: center;
+}
+.h1{
+    justify-content: center;
+}
